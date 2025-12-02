@@ -33,8 +33,8 @@ This project is meant for learning **NLP fundamentals**, understanding **Seq2Seq
 ---
 
 ## 📁 Project Structure
-
-project-name/
+```
+MiniTranslatorWithNN/
 │
 ├── src/
 │   ├── translator_without_attention.py
@@ -42,7 +42,7 @@ project-name/
 │
 ├── requirements.txt
 └── README.md
-
+```
 
 ---
 
